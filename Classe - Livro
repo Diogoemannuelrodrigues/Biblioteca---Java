@@ -1,0 +1,12 @@
+
+public class Livro{
+
+	private Autor autor;
+	private String nomeLivro;
+	private int numSerie;
+		
+
+... get And Sets.... 
+
+a fazer
+}
